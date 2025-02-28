@@ -31,6 +31,7 @@ summary(model)
 # results
 
 coef <- broom::tidy(model)
+coef
 
 # process results
 

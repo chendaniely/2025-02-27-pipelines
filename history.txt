@@ -1,0 +1,14 @@
+  500  cd git/2025-02-27-pipelines/
+  501  Rscript 01-loead_clean.R
+  502  Rscript 02-eda.R
+  503  Rscript 03-model.R
+  504  Rscript 04-analyze.R
+  505  Rscript 01-load_clean.R
+  506  Rscript 02-eda.R
+  507  Rscript 03-model.R
+  508  Rscript 04-analyze.R
+  509  Rscript 04-analyze.R
+  510  bash analysis.sh
+  511  make download
+  512  make analysis
+  513  history > history.txt

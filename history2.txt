@@ -1,0 +1,4 @@
+  500  Rscript 01-load_clean.R
+  501  Rscript 02-eda.R
+  502  Rscript 02-eda.R
+  503  history > history2.txt
